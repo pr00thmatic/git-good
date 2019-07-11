@@ -1,0 +1,23 @@
+CIUDAD:
+ NORTE:
+ cementerio
+
+ SUR:
+ granjas
+  NORTE:
+  ciudad
+
+  SUR:
+  nómadas
+
+  ESTE:
+  mercenarios
+
+  OESTE:
+  ciudadela de los niños
+
+ OESTE:
+ bosque
+
+ ESTE:
+ castillo
