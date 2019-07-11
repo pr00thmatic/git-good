@@ -4,6 +4,17 @@ CIUDAD:
 
  SUR:
  granjas
+  NORTE:
+  ciudad
+
+  SUR:
+  nómadas
+
+  ESTE:
+  mercenarios
+
+  OESTE:
+  ciudadela de los niños
 
  OESTE:
  bosque
